@@ -1,3 +1,6 @@
+# This is the Capybara test file, which contains all the 
+# step definitions that appears in the cucumber test file.
+
 Given(/^I am on the First Name Guesser page$/) do
   visit 'http://first-name-guesser.herokuapp.com/'
 end

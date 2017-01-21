@@ -1,3 +1,7 @@
+# This is the Cucumber test file.
+# The steps and test scenarios are very easy to understand.
+# All the test data are under "Examples".
+
 @first_name_guesser_page_validation
 Feature: Test the First Name Guesser webpage
 
@@ -39,6 +43,7 @@ Scenario Outline: Verify the page does not have XSS bugs
   When I fill in "name" with "<Name>"
   And I hit "GO"
   And I should see "Given name: <Result>"
+
 Examples:
   | Name           | Result |
   | <script>alert('hello')</script> | <script>alert('hello')</script> |
