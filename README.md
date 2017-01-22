@@ -49,6 +49,6 @@ To install Capybara use
 
 There should be two failed tests, which catches the bugs on the web page.
 
-Please contact me if you cannot get the tests to run. I attached a youtube video of the test running:
-	
-	https://youtu.be/-nnPWUeofu8
+Here I attached a youtube video of the test running on my machine:
+
+https://youtu.be/-nnPWUeofu8
