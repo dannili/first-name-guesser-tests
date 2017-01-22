@@ -17,6 +17,7 @@ Capybara is a library written in the Ruby programming language which makes it ea
 ## Before Running the Tests
 
 	Download Firefox web browser (please use version 45)
+	
 	git clone https://github.com/dannili/first-name-guesser-tests.git
 
 ### Installation
