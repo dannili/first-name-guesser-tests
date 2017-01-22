@@ -28,6 +28,7 @@ To install Ruby use
 (Restart the terminal window after this installation)
 
 To install QT use
+	
 	brew install qt
 
 To install Cucumber use
@@ -41,6 +42,7 @@ To install Capybara use
 ## Running the Tests
 
 	cd ~/first-name-guesser-tests/
+	
 	cucumber features/first_name_guesser_test.feature
 
 ## Expected Test Results
