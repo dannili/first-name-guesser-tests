@@ -1,6 +1,6 @@
 # This is the Cucumber test file.
-# The steps and test scenarios are very easy to understand.
-# All the test data are under "Examples".
+# Each test scenario starts with "@" and the steps are easy to understand.
+# The test data are under "Examples".
 
 @first_name_guesser_page_validation
 Feature: Test the First Name Guesser webpage
