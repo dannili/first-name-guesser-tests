@@ -17,15 +17,14 @@ Capybara is a library written in the Ruby programming language which makes it ea
 ## Before Running the Tests
 
 	Download Firefox web browser (please use version 45)
-
-    git clone https://github.com/dannili/first-name-guesser-tests.git
+	git clone https://github.com/dannili/first-name-guesser-tests.git
 
 ### Installation
 To install Ruby use
 
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+	ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-\curl -sSL https://get.rvm.io | bash -s stable --ruby
+	\curl -sSL https://get.rvm.io | bash -s stable --ruby
 (Restart the terminal window after this installation)
 
 To install QT use
@@ -33,11 +32,11 @@ To install QT use
 
 To install Cucumber use
 
-    gem install cucumber
+	gem install cucumber
 
 To install Capybara use
 
-    gem install capybara
+	gem install capybara
 
 ## Running the Tests
 
@@ -49,4 +48,5 @@ To install Capybara use
 There should be two failed tests, which catches the bugs on the web page.
 
 Please contact me if you cannot get the tests to run. I attached a youtube video of the test running:
+	
 	https://youtu.be/-nnPWUeofu8
